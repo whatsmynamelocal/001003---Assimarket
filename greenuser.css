@@ -1,0 +1,43 @@
+body {
+  background-color: silver;
+  font-family: Helvetica;
+}
+h1 {
+  color: Fog;
+  font-family: Helvetica;
+}
+h2 {
+  color: Fog;
+  font-family: Helvetica;
+}
+p {
+  color: Graphite;
+  font-family: Helvetica;
+}
+table
+ {
+  background-color:grey;
+  border-style: dotted;
+  border-color:green;
+  border-width: 2px;
+  font-family: Helvetica;
+  color: white;
+  border-collapse: collapse;
+  width: 100%;
+  vertical-align: middle;
+}
+td
+ {
+  color: white;
+  font-family: Helvetica;
+  width: 10%;
+  text-align: center;
+  vertical-align: middle;
+}
+a
+{
+  color:  white;
+  font-family: Helvetica;
+  vertical-align: middle;
+  text-align: center;
+}
